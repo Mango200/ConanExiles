@@ -5,7 +5,7 @@ Conan Exiles ESP + SDK Stuff
 
 
 # Instructions for Use
-Compile using Micrsoft Visual Studio, run EXE
+Compile using Micrsoft Visual Studio.
 
 
 
@@ -15,6 +15,4 @@ Compile using Micrsoft Visual Studio, run EXE
 
 
 # WARNING
-![GitHub Logo](/github/battleye.png)
-Format: ![Alt Text](url)
-
+Disable Battleye, you'll probably get Banned on Offical Servers.
