@@ -1,4 +1,5 @@
 # ConanExiles
+Join our Slack on https://conanexiles.slack.com/ (Request Invite)
 
 Conan Exiles ESP + SDK Stuff
 
