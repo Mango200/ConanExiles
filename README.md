@@ -13,5 +13,8 @@ Compile using Micrsoft Visual Studio, run EXE
 - Set ESP Distance
 - View Options (Pick NPC, and stuff, Camel etc... bla bla bla)
 
-Don't use on Battleye Servers, you'll probably get banned.
-thnx
+
+# WARNING
+![GitHub Logo](/github/battleye.png)
+Format: ![Alt Text](url)
+
