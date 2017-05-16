@@ -7,7 +7,7 @@ Conan Exiles ESP + SDK Stuff
 
 # Instructions for Use
 Compile using Micrsoft Visual Studio.
-Or wait for me to Upload Compiled Version Eventually.
+
 
 
 
@@ -18,3 +18,6 @@ Or wait for me to Upload Compiled Version Eventually.
 
 # WARNING
 Disable Battleye, you'll probably get Banned on Offical Servers.
+
+
+** Update 16.05.17 - Still Works **
