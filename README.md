@@ -1,7 +1,7 @@
 # ConanExiles
 https://conanexiles.slack.com/ (Request Invite)
 
-Conan Exiles ESP + SDK Stuff
+Conan Exiles ESP + SDK 
 
 
 
@@ -13,11 +13,7 @@ Compile using Micrsoft Visual Studio.
 
 # Features
 - Set ESP Distance
-- View Options (Pick NPC, and stuff, Camel etc... bla bla bla)
-
+- View Options (NPCs, other stuff)
 
 # WARNING
-Disable Battleye, you'll probably get Banned on Offical Servers.
-
-
-** Update 16.05.17 - Still Works **
+Do not use on Offical Servers, Battleye will ban you.
