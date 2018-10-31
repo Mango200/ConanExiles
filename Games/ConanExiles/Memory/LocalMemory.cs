@@ -200,5 +200,7 @@ namespace ConanExiles.Memory
         {
             return BitConverter.ToBoolean(ReadMem(address + offset, 1), 0);
         }
-    }
 }
+}
+
+//End of LocalMemory Read
